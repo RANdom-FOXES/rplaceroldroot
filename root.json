@@ -1,0 +1,13 @@
+{
+    "faction": "r/oldroot",
+    "templates": [
+      {
+        "name": "oldroot morse",
+        "sources": [
+          "https://raw.githubusercontent.com/RANdom-FOXES/rplaceroldroot/main/pixil-frame-0.png"
+        ],
+        "x": -1458,
+        "y": 500
+      }
+    ]
+}
